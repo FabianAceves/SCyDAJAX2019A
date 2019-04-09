@@ -1,0 +1,1 @@
+agregar el campo fecha_nacimiento al formulario de insertar y validar que solo inserte si es menor de edad hoy
